@@ -1,0 +1,52 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #1b1b1b;
+}
+
+.clock {
+  position: relative;
+  color: #fff;
+  font-size: 60px;
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 7px;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+
+.social-container {
+  margin: 20px 0;
+}
+
+.social-container a {
+  border: 1px solid #dddddd;
+  background-color: #fff;
+  border-radius: 50%;
+  text-decoration: none;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #000;
+  margin: 0 5px;
+  height: 40px;
+  width: 40px;
+  box-shadow: 2px 1px 5px rgba(34, 33, 33, 0.603);
+}
+.foot {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+footer {
+  margin-top: 400px;
+}
