@@ -278,20 +278,32 @@ function PPL() {
   document.getElementById("show").innerHTML =
     "Subject: PPL Faculty: Ms. Samyuktha";
   var myWindow;
-  myWindow = window.open("Enter Zoom ID", "_blank", "width=200, height=200");
+  myWindow = window.open(
+    " https://us04web.zoom.us/j/7512733766?pwd=jaEXR9-dJXvfGZkEdrsCuk3pdF4fkg",
+    "_blank",
+    "width=200, height=200"
+  );
 }
 
 function DM() {
   document.getElementById("show").innerHTML = "Subject: DM Faculty: Mr. Rajesh";
   var myWindow;
-  myWindow = window.open(" Enter Zoom ID", "_blank", "width=200, height=200");
+  myWindow = window.open(
+    "https://us04web.zoom.us/j/6382172099?pwd=jaMXStv_YSp8sPny0dKk7sSY-BQi",
+    "_blank",
+    "width=200, height=200"
+  );
 }
 
 function PY() {
   var myWindow;
   document.getElementById("show").innerHTML =
     "Subject: PY Faculty: Ms. Kumari Jelli";
-  myWindow = window.open("Enter Zoom ID", "_blank", "width=200, height=200");
+  myWindow = window.open(
+    " https://us04web.zoom.us/j/7767809555?pwd=MlYrZjJhNFVTaStFa282cHgzZWdjdz09",
+    "_blank",
+    "width=200, height=200"
+  );
 }
 
 function SPPM() {
