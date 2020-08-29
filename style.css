@@ -48,5 +48,28 @@ h2 {
   font-family: "Montserrat", sans-serif;
 }
 footer {
-  margin-top: 400px;
+  margin-top: 150px;
+}
+
+.timetable {
+  width: 661px;
+  height: 166px;
+}
+
+.btn {
+  display: absolute;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  background-size: 200%;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.butrow {
+  padding: 10px;
 }
