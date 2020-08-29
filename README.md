@@ -1,6 +1,6 @@
 # Automatic Zoom Class Link Opener
 
-![Project Image](./assets/demo.mp4)
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/J1Y6d5pCHv9JPW8VSM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/J1Y6d5pCHv9JPW8VSM">via GIPHY</a></p>
 
 > Automatic Online Class Link Manager - To automatically open my zoom class links according to my time table.
 
@@ -38,7 +38,7 @@ Automatic Online Class Link Manager - To Automatically open my zoom class links 
 
 > On the first run don't forget to unblock popups on your browser. Give popup permissions by following this video.
 
-![Project Image](./assets/popupblocked.mp4)
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/SVBxVhXJanOkkI3Fot" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/SVBxVhXJanOkkI3Fot">via GIPHY</a></p>
 
 - If due to some reason, the class does not start up check the timetable and click the corresponding subject button to trigger the zoom class to begin.
 
