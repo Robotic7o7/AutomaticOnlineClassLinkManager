@@ -309,6 +309,11 @@ function PY() {
 function SPPM() {
   document.getElementById("show").innerHTML =
     "Subject: SPPM Faculty: Dr. G. Swamy";
+  myWindow = window.open(
+    "https://us04web.zoom.us/j/4626783045?pwd=UENOdFBoeXVqWVk4RmEvN29nSUxodz09",
+    "_blank",
+    "width=200, height=200"
+  );
 }
 
 function CC() {
@@ -331,4 +336,12 @@ function playSound() {
     var tom1 = new Audio("./siren.mp3");
     tom1.play();
   }
+}
+
+function insta() {
+  myWindow = window.open(
+    "https://us04web.zoom.us/j/7620473265?pwd=RmVXVk03T2wrOHg0U2M0ZnlYRE1rQT09",
+    "_blank",
+    "width=200, height=200"
+  );
 }

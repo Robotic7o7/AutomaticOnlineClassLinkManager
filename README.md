@@ -1,6 +1,6 @@
 # Automatic Zoom Class Link Opener
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/J1Y6d5pCHv9JPW8VSM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/J1Y6d5pCHv9JPW8VSM">via GIPHY</a></p>
+![](https://giphy.com/gifs/SVBxVhXJanOkkI3Fot/html5)
 
 > Automatic Online Class Link Manager - To automatically open my zoom class links according to my time table.
 
